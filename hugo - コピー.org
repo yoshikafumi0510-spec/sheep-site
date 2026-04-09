@@ -1,0 +1,20 @@
+baseURL = "https://binku-ji.com/sheep"
+languageCode = "ja"
+title = "吉川文隆のアーカイブ"
+theme = "PaperMod"
+
+paginate = 10
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  defaultTheme = "auto"
+  homeInfoParams = false
+  ShowHero = true
+
+[params.hero]
+  enable = true
+  image = "kumotori.jpg"
+  title = "雲取山の頂へ"
+  subtitle = "祖先から続く険しい道のりを歩く"

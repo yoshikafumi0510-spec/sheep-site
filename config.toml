@@ -1,0 +1,15 @@
+baseURL = 'https://binku-ji.com/sheep/'
+languageCode = 'ja'
+title = '東京農業・里山・祖先の記録'
+theme = 'hugo-book'
+
+[params]
+  BookSearch     = true
+  BookSection    = 'docs'
+  BookMenuBundle = false
+  BookDateFormat = '2006年1月2日'
+  BookRepo       = ''
+  BookCustomCSS  = 'css/custom.css'
+
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,15 @@
+{
+  "name": "東京農業・里山・祖先の記録",
+  "short_name": "東京農業・里山・祖先の記録",
+  "start_url": "/sheep/",
+  "scope": "/sheep/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/sheep/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
